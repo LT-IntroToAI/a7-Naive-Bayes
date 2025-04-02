@@ -1,5 +1,5 @@
 ---
-title: 'Assignment 6: Naïve Bayes Classifier'
+title: 'Assignment 7: Naïve Bayes Classifier'
 author: |
   | Assignment written by Sara Sood (while at Pomona College),
   | Northwestern University with changes by Nathan Shelly
@@ -61,7 +61,7 @@ To train your system, you will be using data from a corpus of movie and product 
 
 We will only be training using reviews that had either one or five stars, where the reviews with one star are the "negative" training data and the reviews with five stars are the "positive" training data.
 
-Two provided functions `load_file` and `tokenize` will be helpful here. Familiarize yourself with these functions by using them at the python interpreter to read reviews from the training data files. Take a moment to explore the code provided in the `a6.py` file so that you don't create extra work for yourself. If you would like to edit the provided code, please ask on Piazza first to make sure it won't affect grading.
+Two provided functions `load_file` and `tokenize` will be helpful here. Familiarize yourself with these functions by using them at the python interpreter to read reviews from the training data files. Take a moment to explore the code provided in the `a7.py` file so that you don't create extra work for yourself. If you would like to edit the provided code, please ask Mr. Berg first to make sure it won't affect grading.
 
 ## Part 2: Train the System
 
