@@ -100,14 +100,14 @@ class BayesClassifier:
         # are self.pos_filename and self.neg_filename
 
     def classify(self, text: str) -> str:
-        """Classifies given text as positive, negative or neutral from calculating the
+        """Classifies given text as positive, or negative from calculating the
         most likely document class to which the target string belongs
 
         Args:
             text - text to classify
 
         Returns:
-            classification, either positive, negative or neutral
+            classification, either positive, or negative
         """
         # TODO: fill me out
 

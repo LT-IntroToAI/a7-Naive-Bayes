@@ -12,7 +12,7 @@ You may work alone or in a pair. If you work in a pair, both students must submi
 # Mr. Berg, Mr. Law
 ```
 
-The purpsose of this assignment is to apply what you've learned about supervised Machine Learning and practice using python dictionaries and the pickle library.
+The purpose of this assignment is to apply what you've learned about supervised Machine Learning and practice using python dictionaries and the pickle library.
 
 In particular, you will implement a Naïve Bayes Classifier that analyzes the *sentiment* conveyed in text. When given a selection of text as input, your system will return whether the text is positive, or negative. The system will use a corpus of movie reviews as training data, using the number of stars assigned to each review by its author as the truth data (1 star is negative, 5 stars is positive).
 
